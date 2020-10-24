@@ -1,9 +1,3 @@
-"""
-Created on Oct 20, 2011
-
-@author: guillaume
-"""
-
 # Imports
 import numpy as np
 from scipy import linalg
