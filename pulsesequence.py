@@ -1,11 +1,7 @@
 
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Mar 20 15:09:01 2019
 
-@author: nbc
-"""
 import numpy as np
 
 import rate as R
